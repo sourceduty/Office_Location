@@ -11,6 +11,12 @@ Additionally, Office Locale offers businesses cost-benefit analyses, comparative
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Property Location Expert](https://github.com/sourceduty/Property_Location_Expert)
+<br>
+[Office Comfort](https://github.com/sourceduty/Office_Comfort)
+<br>
+[Footage Location](https://github.com/sourceduty/Footage_Location)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
