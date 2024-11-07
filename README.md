@@ -1,6 +1,6 @@
 ![Office](https://github.com/user-attachments/assets/7dc39e05-7e1b-40c8-bf63-603e8cc7162d)
 
-> Plan and purchase corporate office locations.
+> Plan and purchase corporate office locations. Optimize existing office locations.
 #
 
 [Office Location](https://chatgpt.com/g/g-TmclrGaxD-office-location)  is designed to help businesses identify and secure office spaces that meet their specific requirements. It assists in evaluating office location options by considering a range of critical factors such as budget, market trends, and the business's geographic preferences. With its in-depth knowledge of real estate and office space considerations, Office Locale helps users understand the benefits and drawbacks of different properties, ensuring that the selected location aligns with the company’s operational goals. The GPT can also factor in aspects like proximity to local amenities, accessibility to public transportation, and energy efficiency certifications, which are increasingly important in today’s environmentally conscious business landscape.
