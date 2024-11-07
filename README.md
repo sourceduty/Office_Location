@@ -17,6 +17,8 @@ Office Locale also offers detailed comparisons between different office spaces, 
 [Office Comfort](https://github.com/sourceduty/Office_Comfort)
 <br>
 [Footage Location](https://github.com/sourceduty/Footage_Location)
+<br>
+[Local Business Startup](https://github.com/sourceduty/Local_Business_Startup)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
